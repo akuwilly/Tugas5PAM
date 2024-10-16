@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string-array name="nim">
+        <item>225150400000011</item>
+        <item>225150400000012</item>
+        <item>225150400000013</item>
+        <item>225150400000014</item>
+        <item>225150400000015</item>
+        <item>225150400000016</item>
+        <item>225150400000017</item>
+        <item>225150400000018</item>
+        <item>225150400000019</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Mulyono</item>
+        <item>Ahmad Naruto</item>
+        <item>Nur Sasuke</item>
+        <item>Hinata Azzahra</item>
+        <item>M. Kakashi</item>
+        <item>Granger Pranowo</item>
+        <item>Alice Baswedan</item>
+        <item>Jaka Widada</item>
+        <item>Alucard</item>
+    </string-array>
+
+</resources>
